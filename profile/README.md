@@ -1,3 +1,3 @@
-# .github
+### ELM project
 
-This is a readme for the ELM project. 
+This organization is currently private. Please log in as a member.
